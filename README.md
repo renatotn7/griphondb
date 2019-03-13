@@ -7,6 +7,7 @@
 <img src="http://orientdb.com/orientdb-studio_800px.png">
 
 ## What is GriphonDB?
+GriphonDB is based on OrientDB Database
 
 **GriphonDB** is an Open Source Multi-Model [NoSQL](http://en.wikipedia.org/wiki/NoSQL) DBMS with the support of Native Graphs, Documents Full-Text, Reactivity, Geo-Spatial and Object Oriented concepts. It's written in Java and it's amazingly fast: it can store 220,000 records per second on common hardware. No expensive run-time JOINs, connections are managed as persistent pointers between records. You can traverse thousands of records in a few milliseconds. Supports schema-less, schema-full and schema-mixed modes. Has a strong security profiling system based on user and roles and supports [SQL](http://orientdb.com/docs/last/SQL.html) amongst the query languages. Thanks to the [SQL](http://orientdb.com/docs/last/SQL.html) layer it's straightforward to use for people skilled in the Relational world.
 
